@@ -46,6 +46,7 @@
   "peerDependencies": {
     "vue": "^2.6.14"
   },
+  "license": "MIT",
   "engines": {
     "node": ">=12"
   }
