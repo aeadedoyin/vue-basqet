@@ -1,4 +1,4 @@
-<p align="center"><img src="vue-basqet.png?raw=true" width="70%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/aeadedoyin/vue-basqet/main/vue-basqet.png" width="70%"></p>
 
 <br />
 
@@ -134,4 +134,4 @@ Twitter: [@aeadedoyin ](https://twitter.com/aeadedoyin)
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License]([LICENSE.md](https://github.com/aeadedoyin/vue-basqet/blob/main/LICENSE.md)) for more information.
