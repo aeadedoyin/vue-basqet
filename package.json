@@ -1,15 +1,15 @@
 {
-  "name": "vue-basqet",
-  "version": "1.0.0",
-  "description": "Wraps the Basqet SDK",
+  "name": "vue2-basqet",
+  "version": "1.0.1",
+  "description": "Wraps the Basqet SDK in Vue 2",
   "author": {
     "name": "Adedoyin Akande",
     "email": "aeadedoyin@gmail.com"
   },
-  "main": "dist/vue-basqet.ssr.js",
-  "browser": "dist/vue-basqet.esm.js",
-  "module": "dist/vue-basqet.esm.js",
-  "unpkg": "dist/vue-basqet.min.js",
+  "main": "dist/vue2-basqet.ssr.js",
+  "browser": "dist/vue2-basqet.esm.js",
+  "module": "dist/vue2-basqet.esm.js",
+  "unpkg": "dist/vue2-basqet.min.js",
   "files": [
     "dist/*",
     "src/**/*.vue"

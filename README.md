@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/aeadedoyin/vue-basqet/main/vue-basqet.png" width="70%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/aeadedoyin/vue2-basqet/main/vue2-basqet.png" width="70%"></p>
 
 <br />
 
@@ -13,26 +13,26 @@ Available for Vue 2
 
 ### NPM
 ```bash
-npm install vue-basqet --save 
+npm install vue2-basqet --save 
 ``` 
 ### Yarn
 ```bash
-yarn add vue-basqet
+yarn add vue2-basqet
 ``` 
 
 ### Javascript via CDN
 ```javascript 1.8
 <!-- Vue -->
 <script src="https://unpkg.com/vue/dist/vue.js"></script>
-<!-- Vue-Basqet -->
-<script src="https://unpkg.com/vue-basqet/dist/vue-basqet.min.js"></script>
+<!-- Vue2-Basqet -->
+<script src="https://unpkg.com/vue2-basqet/dist/vue2-basqet.min.js"></script>
 ```
 
 ## Usage
 
 ```vue
 <template>
-    <vue-basqet
+    <vue2-basqet
         ref="vueBasqetButton"
         :amount="amount"
         :public-key="basqetPublicKey"
@@ -43,11 +43,11 @@ yarn add vue-basqet
         :description="'Payment for service'"
     >
        Make Payment
-    </vue-basqet>
+    </vue2-basqet>
 </template>
 
 <script type="text/javascript">
-  import VueBasqet from 'vue-basqet';
+  import VueBasqet from 'vue2-basqet';
   export default {
       components: {
           VueBasqet
@@ -87,7 +87,7 @@ yarn add vue-basqet
 In /plugin/components.js
 ```javascript 1.8
 import Vue from 'vue'
-import VueBasqet from 'vue-basqet'
+import VueBasqet from 'vue2-basqet'
 
 Vue.use('VueBasqet', VueBasqet)
 
@@ -104,7 +104,7 @@ plugins: [
 ```
 
 In page or component as seen above (where it's used)  
-You don't need to add: `import VueBasqet from 'vue-basqet';`
+You don't need to add: `import VueBasqet from 'vue2-basqet';`
 
 ## All Props Available
 ```
@@ -134,4 +134,4 @@ Twitter: [@aeadedoyin ](https://twitter.com/aeadedoyin)
 
 ## License
 
-The MIT License (MIT). Please see [License]([LICENSE.md](https://github.com/aeadedoyin/vue-basqet/blob/main/LICENSE.md)) for more information.
+The MIT License (MIT). Please see [License]([LICENSE.md](https://github.com/aeadedoyin/vue2-basqet/blob/main/LICENSE.md)) for more information.

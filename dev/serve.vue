@@ -1,6 +1,6 @@
 <script>
 import Vue from 'vue';
-import VueBasqet from '@/vue-basqet.vue';
+import VueBasqet from '@/vue2-basqet.vue';
 
 export default Vue.extend({
   name: 'ServeDev',
@@ -12,6 +12,6 @@ export default Vue.extend({
 
 <template>
   <div id="app">
-    <vue-basqet>Pay</vue-basqet>
+    <vue2-basqet>Pay</vue2-basqet>
   </div>
 </template>

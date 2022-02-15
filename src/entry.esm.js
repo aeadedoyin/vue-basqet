@@ -1,6 +1,6 @@
 
 // Import vue component
-import component from '@/vue-basqet.vue';
+import component from '@/vue2-basqet.vue';
 
 // Default export is installable instance of component.
 // IIFE injects install function into component, allowing component

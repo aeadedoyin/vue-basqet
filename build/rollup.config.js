@@ -84,7 +84,7 @@ if (!argv.format || argv.format === 'es') {
     input: 'src/entry.esm.js',
     external,
     output: {
-      file: 'dist/vue-basqet.esm.js',
+      file: 'dist/vue2-basqet.esm.js',
       format: 'esm',
       exports: 'named',
     },
@@ -116,7 +116,7 @@ if (!argv.format || argv.format === 'cjs') {
     external,
     output: {
       compact: true,
-      file: 'dist/vue-basqet.ssr.js',
+      file: 'dist/vue2-basqet.ssr.js',
       format: 'cjs',
       name: 'VueBasqet',
       exports: 'auto',
@@ -145,7 +145,7 @@ if (!argv.format || argv.format === 'iife') {
     external,
     output: {
       compact: true,
-      file: 'dist/vue-basqet.min.js',
+      file: 'dist/vue2-basqet.min.js',
       format: 'iife',
       name: 'VueBasqet',
       exports: 'auto',
