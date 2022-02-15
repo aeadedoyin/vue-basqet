@@ -1,6 +1,6 @@
 {
   "name": "vue2-basqet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wraps the Basqet SDK in Vue 2",
   "author": {
     "name": "Adedoyin Akande",
