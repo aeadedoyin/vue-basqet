@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/aeadedoyin/vue2-basqet/main/vue2-basqet.png" width="70%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/aeadedoyin/vue-basqet/main/vue-basqet.png" width="70%"></p>
 
 <br />
 
